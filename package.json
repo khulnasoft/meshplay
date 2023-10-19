@@ -1,6 +1,6 @@
 {
     "dependencies": {
-      "google-sheet-cli": "^1.6.0"
+      "google-sheet-cli": "^2.2.0"
     }
   }
   
