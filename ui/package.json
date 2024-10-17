@@ -119,7 +119,7 @@
     "@next/eslint-plugin-next": "^13.1.2",
     "@playwright/test": "^1.44.0",
     "@types/node": "^20.12.12",
-    "ajv": "^8.12.0",
+    "ajv": "^8.17.1",
     "babel-loader": "^9.1.2",
     "dotenv": "^16.4.5",
     "eslint": "^8.57.0",
