@@ -20,9 +20,9 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/layer5io/meshery/mesheryctl/internal/cli/root/config"
-	"github.com/layer5io/meshery/mesheryctl/pkg/utils"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/mesheryctl/internal/cli/root/config"
+	"github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/server/models"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

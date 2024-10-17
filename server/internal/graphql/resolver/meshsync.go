@@ -6,8 +6,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/layer5io/meshery/server/internal/graphql/model"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/internal/graphql/model"
+	"github.com/khulnasoft/meshery/server/models"
 	"github.com/layer5io/meshkit/broker"
 	"github.com/layer5io/meshkit/models/meshmodel/registry"
 	"github.com/layer5io/meshkit/utils"

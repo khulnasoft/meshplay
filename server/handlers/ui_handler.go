@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/models"
 	"github.com/spf13/viper"
 )
 

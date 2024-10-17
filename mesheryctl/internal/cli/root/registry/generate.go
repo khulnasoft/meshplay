@@ -32,7 +32,7 @@ import (
 	"github.com/layer5io/meshkit/models/meshmodel/entity"
 	"golang.org/x/sync/semaphore"
 
-	"github.com/layer5io/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
 	mutils "github.com/layer5io/meshkit/utils"
 	"github.com/layer5io/meshkit/utils/store"
 	"github.com/meshery/schemas/models/v1beta1/component"

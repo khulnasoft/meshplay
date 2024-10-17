@@ -8,7 +8,7 @@ import (
 
 	"google.golang.org/protobuf/encoding/protojson"
 
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/models"
 	SMP "github.com/layer5io/service-mesh-performance/spec"
 )
 

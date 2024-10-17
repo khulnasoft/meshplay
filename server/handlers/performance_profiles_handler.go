@@ -8,8 +8,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/layer5io/meshery/server/internal/sql"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/internal/sql"
+	"github.com/khulnasoft/meshery/server/models"
 )
 
 // swagger:route POST /api/user/performance/profiles PerformanceAPI idSavePerformanceProfile

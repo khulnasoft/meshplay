@@ -5,7 +5,7 @@ import (
 	"errors"
 	"os"
 
-	"github.com/layer5io/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
 	meshkit "github.com/layer5io/meshkit/utils"
 	"github.com/spf13/cobra"
 	"google.golang.org/api/sheets/v4"

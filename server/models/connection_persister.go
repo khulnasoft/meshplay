@@ -5,9 +5,9 @@ import (
 	"strings"
 
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/helpers/utils"
-	"github.com/layer5io/meshery/server/models/connections"
-	"github.com/layer5io/meshery/server/models/environments"
+	"github.com/khulnasoft/meshery/server/helpers/utils"
+	"github.com/khulnasoft/meshery/server/models/connections"
+	"github.com/khulnasoft/meshery/server/models/environments"
 	"github.com/layer5io/meshkit/database"
 	"gorm.io/gorm"
 )

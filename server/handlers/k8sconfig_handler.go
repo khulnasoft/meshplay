@@ -8,17 +8,17 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/layer5io/meshery/server/machines"
-	mhelpers "github.com/layer5io/meshery/server/machines/helpers"
-	"github.com/layer5io/meshery/server/machines/kubernetes"
+	"github.com/khulnasoft/meshery/server/machines"
+	mhelpers "github.com/khulnasoft/meshery/server/machines/helpers"
+	"github.com/khulnasoft/meshery/server/machines/kubernetes"
 
-	"github.com/layer5io/meshery/server/models/connections"
-	mcore "github.com/layer5io/meshery/server/models/meshmodel/core"
+	"github.com/khulnasoft/meshery/server/models/connections"
+	mcore "github.com/khulnasoft/meshery/server/models/meshmodel/core"
 
 	// for GKE kube API authentication
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/helpers"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/helpers"
+	"github.com/khulnasoft/meshery/server/models"
 	_ "k8s.io/client-go/plugin/pkg/client/auth/gcp"
 
 	"github.com/layer5io/meshkit/models/events"

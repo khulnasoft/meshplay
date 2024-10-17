@@ -9,8 +9,8 @@ import (
 	"strings"
 
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/meshes"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/meshes"
+	"github.com/khulnasoft/meshery/server/models"
 	"github.com/spf13/viper"
 )
 

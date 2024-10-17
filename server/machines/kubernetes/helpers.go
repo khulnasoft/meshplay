@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/helpers"
-	"github.com/layer5io/meshery/server/machines"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/helpers"
+	"github.com/khulnasoft/meshery/server/machines"
+	"github.com/khulnasoft/meshery/server/models"
 	"github.com/layer5io/meshkit/logger"
 	"github.com/layer5io/meshkit/models/events"
 	"github.com/layer5io/meshkit/utils/kubernetes"

@@ -10,11 +10,11 @@ import (
 
 	"github.com/gofrs/uuid"
 	"github.com/gorilla/mux"
-	"github.com/layer5io/meshery/server/machines"
-	"github.com/layer5io/meshery/server/machines/helpers"
-	"github.com/layer5io/meshery/server/machines/kubernetes"
-	"github.com/layer5io/meshery/server/models"
-	"github.com/layer5io/meshery/server/models/connections"
+	"github.com/khulnasoft/meshery/server/machines"
+	"github.com/khulnasoft/meshery/server/machines/helpers"
+	"github.com/khulnasoft/meshery/server/machines/kubernetes"
+	"github.com/khulnasoft/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/models/connections"
 	"github.com/layer5io/meshkit/models/events"
 	regv1beta1 "github.com/layer5io/meshkit/models/meshmodel/registry/v1beta1"
 )

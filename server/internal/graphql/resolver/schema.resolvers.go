@@ -11,11 +11,11 @@ import (
 	"time"
 
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/handlers"
-	"github.com/layer5io/meshery/server/internal/graphql/generated"
-	"github.com/layer5io/meshery/server/internal/graphql/model"
-	"github.com/layer5io/meshery/server/machines/kubernetes"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/handlers"
+	"github.com/khulnasoft/meshery/server/internal/graphql/generated"
+	"github.com/khulnasoft/meshery/server/internal/graphql/model"
+	"github.com/khulnasoft/meshery/server/machines/kubernetes"
+	"github.com/khulnasoft/meshery/server/models"
 	"github.com/layer5io/meshkit/broker"
 	"github.com/layer5io/meshkit/utils"
 )

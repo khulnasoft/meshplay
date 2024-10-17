@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/layer5io/meshery/server/internal/graphql/model"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/internal/graphql/model"
+	"github.com/khulnasoft/meshery/server/models"
 )
 
 // CatalogPatternPage - represents a page of meshery patterns

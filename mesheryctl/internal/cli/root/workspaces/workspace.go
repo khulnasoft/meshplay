@@ -15,8 +15,8 @@
 package workspaces
 
 import (
-	"github.com/layer5io/meshery/mesheryctl/internal/cli/root/config"
-	"github.com/layer5io/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/mesheryctl/internal/cli/root/config"
+	"github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
 
 	"github.com/fatih/color"
 	"github.com/pkg/errors"

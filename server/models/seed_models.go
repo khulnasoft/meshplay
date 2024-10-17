@@ -7,7 +7,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/layer5io/meshery/server/helpers/utils"
+	"github.com/khulnasoft/meshery/server/helpers/utils"
 	"github.com/layer5io/meshkit/logger"
 	meshmodel "github.com/layer5io/meshkit/models/meshmodel/registry"
 	"github.com/layer5io/meshkit/models/registration"

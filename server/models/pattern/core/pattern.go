@@ -7,7 +7,7 @@ import (
 	"io"
 
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/models/pattern/utils"
+	"github.com/khulnasoft/meshery/server/models/pattern/utils"
 	"github.com/layer5io/meshkit/encoding"
 	"github.com/layer5io/meshkit/logger"
 	registry "github.com/layer5io/meshkit/models/meshmodel/registry"

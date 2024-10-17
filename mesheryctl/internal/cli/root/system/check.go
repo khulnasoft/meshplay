@@ -26,12 +26,12 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/layer5io/meshery/mesheryctl/internal/cli/root/config"
-	"github.com/layer5io/meshery/mesheryctl/internal/cli/root/constants"
-	c "github.com/layer5io/meshery/mesheryctl/pkg/constants"
-	"github.com/layer5io/meshery/mesheryctl/pkg/utils"
-	"github.com/layer5io/meshery/server/handlers"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/mesheryctl/internal/cli/root/config"
+	"github.com/khulnasoft/meshery/mesheryctl/internal/cli/root/constants"
+	c "github.com/khulnasoft/meshery/mesheryctl/pkg/constants"
+	"github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/server/handlers"
+	"github.com/khulnasoft/meshery/server/models"
 	meshkitutils "github.com/layer5io/meshkit/utils"
 	meshkitkube "github.com/layer5io/meshkit/utils/kubernetes"
 	log "github.com/sirupsen/logrus"

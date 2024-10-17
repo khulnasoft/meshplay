@@ -11,16 +11,16 @@ import (
 	"time"
 
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/meshes"
-	"github.com/layer5io/meshery/server/models"
-	"github.com/layer5io/meshery/server/models/pattern/core"
-	"github.com/layer5io/meshery/server/models/pattern/patterns"
+	"github.com/khulnasoft/meshery/server/meshes"
+	"github.com/khulnasoft/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/models/pattern/core"
+	"github.com/khulnasoft/meshery/server/models/pattern/patterns"
 	"github.com/spf13/viper"
 
-	"github.com/layer5io/meshery/server/models/pattern/patterns/k8s"
-	patternutils "github.com/layer5io/meshery/server/models/pattern/utils"
+	"github.com/khulnasoft/meshery/server/models/pattern/patterns/k8s"
+	patternutils "github.com/khulnasoft/meshery/server/models/pattern/utils"
 
-	"github.com/layer5io/meshery/server/models/pattern/stages"
+	"github.com/khulnasoft/meshery/server/models/pattern/stages"
 	"github.com/layer5io/meshkit/logger"
 	events "github.com/layer5io/meshkit/models/events"
 	meshmodel "github.com/layer5io/meshkit/models/meshmodel/registry"

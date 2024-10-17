@@ -24,7 +24,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 
-	"github.com/layer5io/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
 	meshkitUtils "github.com/layer5io/meshkit/utils"
 )
 

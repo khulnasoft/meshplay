@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/helpers/utils"
+	"github.com/khulnasoft/meshery/server/helpers/utils"
 	"github.com/layer5io/meshkit/database"
 	"github.com/meshery/schemas/models/v1beta1"
 	"gorm.io/gorm"

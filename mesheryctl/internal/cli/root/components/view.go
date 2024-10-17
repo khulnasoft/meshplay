@@ -22,9 +22,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/layer5io/meshery/mesheryctl/internal/cli/root/config"
-	"github.com/layer5io/meshery/mesheryctl/pkg/utils"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/mesheryctl/internal/cli/root/config"
+	"github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/server/models"
 	"github.com/meshery/schemas/models/v1beta1/component"
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"

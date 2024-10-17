@@ -14,11 +14,11 @@ import (
 
 	"github.com/gofrs/uuid"
 	"github.com/gorilla/mux"
-	mesheryctlUtils "github.com/layer5io/meshery/mesheryctl/pkg/utils"
-	"github.com/layer5io/meshery/server/helpers"
-	"github.com/layer5io/meshery/server/helpers/utils"
-	"github.com/layer5io/meshery/server/models"
-	"github.com/layer5io/meshery/server/models/pattern/core"
+	mesheryctlUtils "github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/server/helpers"
+	"github.com/khulnasoft/meshery/server/helpers/utils"
+	"github.com/khulnasoft/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/models/pattern/core"
 	"github.com/layer5io/meshkit/models/events"
 
 	"github.com/layer5io/meshkit/models/oci"

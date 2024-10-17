@@ -10,9 +10,9 @@ import (
 	"sync"
 
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/models"
 
-	mesheryctlUtils "github.com/layer5io/meshery/mesheryctl/pkg/utils"
+	mesheryctlUtils "github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
 	"github.com/layer5io/meshkit/encoding"
 
 	"github.com/layer5io/meshkit/models/events"

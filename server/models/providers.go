@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/models/connections"
+	"github.com/khulnasoft/meshery/server/models/connections"
 	"github.com/layer5io/meshkit/broker"
 	"github.com/layer5io/meshkit/database"
 	"github.com/layer5io/meshkit/logger"

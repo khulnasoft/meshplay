@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/layer5io/meshery/server/helpers"
-	"github.com/layer5io/meshery/server/models/pattern/core"
-	"github.com/layer5io/meshery/server/models/pattern/planner"
+	"github.com/khulnasoft/meshery/server/helpers"
+	"github.com/khulnasoft/meshery/server/models/pattern/core"
+	"github.com/khulnasoft/meshery/server/models/pattern/planner"
 	"github.com/layer5io/meshkit/logger"
 	models "github.com/layer5io/meshkit/models/meshmodel/core/v1beta1"
 

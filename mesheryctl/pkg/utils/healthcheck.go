@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/layer5io/meshery/mesheryctl/internal/cli/root/config"
+	"github.com/khulnasoft/meshery/mesheryctl/internal/cli/root/config"
 	meshkitkube "github.com/layer5io/meshkit/utils/kubernetes"
 
 	"github.com/pkg/errors"

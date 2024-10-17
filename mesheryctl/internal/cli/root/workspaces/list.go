@@ -20,9 +20,9 @@ import (
 	"net/http"
 
 	"github.com/eiannone/keyboard"
-	"github.com/layer5io/meshery/mesheryctl/internal/cli/root/config"
-	"github.com/layer5io/meshery/mesheryctl/pkg/utils"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/mesheryctl/internal/cli/root/config"
+	"github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/server/models"
 	"github.com/pkg/errors"
 
 	"github.com/spf13/cobra"

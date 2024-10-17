@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/layer5io/meshery/mesheryctl/internal/cli/root/config"
+	"github.com/khulnasoft/meshery/mesheryctl/internal/cli/root/config"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
 	"github.com/sirupsen/logrus/hooks/test"
@@ -359,8 +359,8 @@ func TestParseURLGithub(t *testing.T) {
 		},
 		{
 			name:          "test with github.com",
-			url:           "https://github.com/layer5io/meshery/blob/master/.github/.goreleaser.yml",
-			rawRepoOutput: "https://github.com/layer5io/meshery/master/.github",
+			url:           "https://github.com/khulnasoft/meshery/blob/master/.github/.goreleaser.yml",
+			rawRepoOutput: "https://github.com/khulnasoft/meshery/master/.github",
 			pathOutput:    ".goreleaser.yml",
 		},
 		{

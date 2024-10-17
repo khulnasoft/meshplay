@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
+	"github.com/khulnasoft/meshery/server/models"
 	operatorv1alpha1 "github.com/layer5io/meshery-operator/api/v1alpha1"
 	operatorClient "github.com/layer5io/meshery-operator/pkg/client"
-	"github.com/layer5io/meshery/server/models"
 	brokerpkg "github.com/layer5io/meshkit/broker"
 	"github.com/layer5io/meshkit/broker/nats"
 	"github.com/layer5io/meshkit/logger"

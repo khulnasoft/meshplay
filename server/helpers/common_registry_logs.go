@@ -8,7 +8,7 @@ import (
 
 	"github.com/gofrs/uuid"
 	gofrs "github.com/gofrs/uuid"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/models"
 	mutils "github.com/layer5io/meshkit/utils"
 	"github.com/meshery/schemas/models/v1alpha3/relationship"
 	"github.com/meshery/schemas/models/v1beta1/component"

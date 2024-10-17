@@ -1,4 +1,4 @@
-module github.com/layer5io/meshery
+module github.com/khulnasoft/meshery
 
 go 1.21
 

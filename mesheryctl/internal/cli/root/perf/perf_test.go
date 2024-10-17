@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/layer5io/meshery/mesheryctl/pkg/utils"
+	"github.com/khulnasoft/meshery/mesheryctl/pkg/utils"
 )
 
 func TestPerfCmd(t *testing.T) {

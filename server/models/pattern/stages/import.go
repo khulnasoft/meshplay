@@ -9,7 +9,7 @@ package stages
 // 	"regexp"
 // 	"strings"
 
-// 	"github.com/layer5io/meshery/server/models/pattern/core"
+// 	"github.com/khulnasoft/meshery/server/models/pattern/core"
 // 	"gopkg.in/yaml.v2"
 // )
 

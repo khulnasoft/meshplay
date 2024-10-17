@@ -10,9 +10,9 @@ import (
 
 	"github.com/gofrs/uuid"
 	"github.com/gorilla/mux"
-	"github.com/layer5io/meshery/server/models"
-	"github.com/layer5io/meshery/server/models/pattern/core"
-	"github.com/layer5io/meshery/server/models/pattern/utils"
+	"github.com/khulnasoft/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/models/pattern/core"
+	"github.com/khulnasoft/meshery/server/models/pattern/utils"
 	"github.com/meshery/schemas/models/v1alpha3/relationship"
 	"github.com/meshery/schemas/models/v1beta1/component"
 	"github.com/meshery/schemas/models/v1beta1/pattern"

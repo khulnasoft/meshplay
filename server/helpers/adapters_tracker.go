@@ -14,8 +14,8 @@ import (
 	"github.com/docker/docker/api/types/network"
 	"github.com/docker/docker/client"
 	"github.com/docker/go-connections/nat"
-	"github.com/layer5io/meshery/server/helpers/utils"
-	"github.com/layer5io/meshery/server/models"
+	"github.com/khulnasoft/meshery/server/helpers/utils"
+	"github.com/khulnasoft/meshery/server/models"
 	meshkitkube "github.com/layer5io/meshkit/utils/kubernetes"
 	"github.com/spf13/viper"
 )
